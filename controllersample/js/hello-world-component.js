@@ -5,7 +5,7 @@
 
     module.component("helloWorld",{
         //template: "Hello from Component"
-        templateUrl: "controllersample/templates/hello-world-template.html",
+        templateUrl: "templates/hello-world-template.html",
         controllerAs: "model",
         controller: function(){
             
