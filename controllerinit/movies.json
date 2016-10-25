@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Star Wars",
+        "rating": 4,
+        "length": 120
+    },
+    {
+        "id": 2,
+        "title": "Terminator",
+        "rating": 3,
+        "length": 90  
+    }
+]
